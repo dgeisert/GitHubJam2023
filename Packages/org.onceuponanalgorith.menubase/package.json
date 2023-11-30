@@ -1,0 +1,20 @@
+{
+  "name": "org.onceuponanalgorith.menubase",
+  "version": "0.0.1",
+  "displayName": "Menu Base",
+  "description": "This is the menu base from DG",
+  "unity": "2021.3",
+  "unityRelease": "22f1",
+  "dependencies": {
+ },
+ "keywords": [
+    "AI",
+    "Stable Diffusion",
+    "ChatGPT"
+  ],
+  "author": {
+    "name": "Alex Inglewood",
+    "email": "contact@onceuponanalgorith.org",
+    "url": "https://www.onceuponanalgorithm.org"
+  }
+}

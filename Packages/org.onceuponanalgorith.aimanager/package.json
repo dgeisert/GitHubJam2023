@@ -1,0 +1,21 @@
+{
+  "name": "org.onceuponanalgorith.aimanager",
+  "version": "0.0.1",
+  "displayName": "AI Manager",
+  "description": "This has ai helper api scripts",
+  "unity": "2021.3",
+  "unityRelease": "22f1",
+  "dependencies": {
+    "com.unity.editorcoroutines" : "1.0.0"
+ },
+ "keywords": [
+    "AI",
+    "Stable Diffusion",
+    "ChatGPT"
+  ],
+  "author": {
+    "name": "Alex Inglewood",
+    "email": "contact@onceuponanalgorith.org",
+    "url": "https://www.onceuponanalgorithm.org"
+  }
+}

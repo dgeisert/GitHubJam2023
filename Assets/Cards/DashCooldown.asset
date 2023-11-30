@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f4e50ff0afa485cae2a4b7d3dae2f5, type: 3}
+  m_Name: DashCooldown
+  m_EditorClassIdentifier: 
+  cardName: Dash Cooldown
+  description: Reducte the dash cooldown by 20%
+  actionType: 9
+  val: 0.8
+  image: {fileID: 2800000, guid: 783e182ba5fbd45f5b47eb1e1796b4c1, type: 3}
+  BG: {fileID: 21300000, guid: d82d1bfa3af0f44ad9ba88680db3565e, type: 3}
+  BGColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 1}
+  unlockCards: []
+  audio: 
